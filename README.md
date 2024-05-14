@@ -36,7 +36,7 @@ Excel is a versatile tool that I have utilized extensively throughout my project
 
 - 👀 Get in Touch
 
-I am always eager to collaborate on interesting data analytics projects or discuss data-related topics. Feel free to reach out to me via email at chinenye.adlyn@gmail.com or connect with me on LinkedIn.
+I am always eager to collaborate on interesting data analytics projects or discuss data-related topics. Feel free to reach out to me via email at chinenye.adlyn@gmail.com or connect with me on LinkedIn: www.linkedin.com/in/adlyn-akuoma-748746b3
 
 
 Thank you for visiting my GitHub repository. I hope you find my projects insightful and inspiring. - 💞️
